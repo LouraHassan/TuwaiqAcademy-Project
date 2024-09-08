@@ -649,6 +649,7 @@ height: auto;
 }
 .div-2 .card{
 width: 20vw;
+height: 40vh;
 border: 0;
 border-radius: 10px;
 box-shadow: 0px 2px 20px rgb(202, 202, 202);
@@ -696,6 +697,7 @@ box-shadow: 0px 2px 20px rgb(202, 202, 202);
     font-weight: lighter;
 }
 .div-3 .card{
+    width: 20vw;
     height: 80vh;
     border-radius: 10px;
 }
